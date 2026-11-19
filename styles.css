@@ -123,7 +123,7 @@ h2 { font: 500 clamp(37px, 4.2vw, 56px)/1.12 var(--serif); letter-spacing: -.035
 
 
 .instrata-section { min-height: 540px; display: grid; grid-template-columns: 1fr 1fr; background: var(--navy-deep); color: white; }
-.instrata-photo { min-height: 540px; background: linear-gradient(0deg, rgba(7,16,29,.15), rgba(7,16,29,.15)), url("img/class.jpg") center/cover; }
+.instrata-photo { min-height: 540px; background: linear-gradient(0deg, rgba(7,16,29,.15), rgba(7,16,29,.15)), url("img/class.webp") center/cover; }
 .instrata-panel { padding: 82px clamp(45px, 8vw, 125px) 75px clamp(45px, 7vw, 100px); align-self: center; }
 .instrata-panel .section-kicker { margin-bottom: 42px; }
 .gold-text { color: var(--gold); }
